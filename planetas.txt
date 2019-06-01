@@ -2,3 +2,5 @@ Saturno
 Jupiter
 Marte
 Logos
+Terra
+Lua
