@@ -9,3 +9,4 @@ Bob
 Nora
 Jota
 Lotus
+Loteria
