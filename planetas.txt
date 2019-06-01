@@ -6,3 +6,4 @@ Terra
 Lua
 Feira
 Bob
+Nora
